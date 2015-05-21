@@ -1,0 +1,21 @@
+{
+  "name": "slush-cri",
+  "version": "0.0.1",
+  "description": "A slush generator for creating Cri sites",
+  "keywords": [
+    "slushgenerator"
+  ],
+  "author": {
+    "name": "René Domingue"
+  },
+  "licence": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-config": "^0.2.4",
+    "gulp-conflict": "^0.2.0",
+    "gulp-install": "^0.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-template": "^1.1.1",
+    "inquirer": "^0.8.0"
+  }
+}
